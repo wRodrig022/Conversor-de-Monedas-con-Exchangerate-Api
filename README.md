@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=https://github.com/DavidVF7/Conversor-de-Monedas/assets/103916971/645bfae6-38cf-4f90-add7-8f9b3929cb5a"
-</p>
-
 # Conversor de Monedas 💵💱💶
 
 Desarrollado como parte del Challenge Conversor de Monedas, propuesto por Alura Latam en colaboración con Oracle en el programa ONE, como parte de la especialización Back-End.
@@ -37,7 +33,7 @@ Esta clase se encarga de guardar el historial de consultas en un archivo de text
 El punto de entrada principal del programa. Aquí se maneja la interacción con el usuario a través de la consola, mostrando un menú de opciones y gestionando las conversiones de moneda.
 
 ## 👨‍💻 Desarrollado por
-- David Velasco Fierros
+- Wilmer Rodrigo Quispe Chino
 
 ## Instrucciones de Uso 🚀
 
